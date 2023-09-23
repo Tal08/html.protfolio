@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Details</title>
+</head>
+<body>
+    <h1>Contact Information</h1>
+     
+    <h3 style="color: blue;"><u>talor453@gmail.com</u></h3>
+
+    <h3 style="color: blue;">+972 549734303</h3>
+
+      
+</body>
+</html>
